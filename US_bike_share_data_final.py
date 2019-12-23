@@ -1,5 +1,5 @@
 #Importing the required Libraries
-import time 
+import time
 import math
 import pandas as pd
 import numpy as np
@@ -295,16 +295,10 @@ if __name__ == "__main__":
 
 """
 Resources used in this Code:
-1.
-2.
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
+1. W3 Schools- https://www.w3schools.in/python-data-science/introduction-to-numpy-library/
+2. Stackoverflow- https://stackoverflow.com/questions/3345202/getting-user-input
+3. Tutorials Point- https://www.tutorialspoint.com/statistical-functions-in-python
+4. THE ULTIMATE PANDAS GUIDE - https://towardsdatascience.com/learn-advanced-features-for-pythons-main-data-analysis-library-in-20-minutes-d0eedd90d086
+5. Data Analysis with Python- http://www.data-analysis-in-python.org/3_pandas.html
+6. Working with Conditional Functions(XLsxWriter) - https://xlsxwriter.readthedocs.io/working_with_conditional_formats.html
 """
