@@ -23,6 +23,6 @@ I also wrote a script that takes in raw input to create an interactive experienc
 2. Stackoverflow- https://stackoverflow.com/questions/3345202/getting-user-input
 3. Tutorials Point- https://www.tutorialspoint.com/statistical-functions-in-python
 4. THE ULTIMATE PANDAS GUIDE - https://towardsdatascience.com/learn-advanced-features-for-pythons-main-data-analysis-library-in-20-minutes-d0eedd90d086
-5. Data Analysis in Python- http://www.data-analysis-in-python.org/3_pandas.html
-6. Working with Conditional Functions(XLsxWriter)- https://xlsxwriter.readthedocs.io/working_with_conditional_formats.html
+5. Data Analysis with Python- http://www.data-analysis-in-python.org/3_pandas.html
+6. Working with Conditional Functions(XLsxWriter) - https://xlsxwriter.readthedocs.io/working_with_conditional_formats.html
 
