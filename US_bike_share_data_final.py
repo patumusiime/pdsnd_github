@@ -1,8 +1,9 @@
-import time
-import math
+#Importing the required Libraries
+#import time
+#import math
 import pandas as pd
 import numpy as np
-
+#Defining the Variables to Check User_Input
 Cities = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
